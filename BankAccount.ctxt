@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=BankAccount
+comment0.text=\ \ \r\n\ \ BankAccount\ defines\ one\ bank\ account.\r\n
+comment1.params=owner\ owner_ss_no\ initial_balance
+comment1.target=BankAccount(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ \ \ \ Constructor\ for\ a\ bank\ acount\r\n
+comment2.params=amount
+comment2.target=void\ deposit(int)
+comment2.text=\r\n\ \ \ \ Make\ a\ deposit\ of\ a\ specified\ amount\r\n
+comment3.params=amount
+comment3.target=boolean\ withdraw(int)
+comment3.text=\r\n\ \ \ \ Try\ to\ make\ a\ withdrawal\ of\ a\ specified\ amount.\r\n\ \ \ \ Return\ true\ if\ this\ was\ possible,\ false\ otherwise.\ \r\n
+comment4.params=
+comment4.target=void\ statement()
+comment4.text=\r\n\ \ \ \ Print\ a\ statement\ for\ the\ account.\r\n
+comment5.params=
+comment5.target=void\ close()
+comment5.text=\r\n\ \ \ \ Close\ the\ account.\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\r\n\ \ \ \ BankAccount\ test\ program.\r\n
+numComments=7

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=pimp
+comment1.params=
+comment1.target=pimp()
+comment2.params=initialBalance\ initialInterest
+comment2.target=pimp(double,\ double)
+comment3.params=amount
+comment3.target=void\ deposit(double)
+comment4.params=amount
+comment4.target=void\ withdraw(double)
+comment5.params=
+comment5.target=void\ addInterest()
+comment6.params=
+comment6.target=double\ getBalance()
+numComments=7
